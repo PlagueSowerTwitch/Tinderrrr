@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProjetKotlin</string>
+    <string name="default_web_client_id">"https://projetkotlin-backend-default-rtdb.europe-west1.firebasedatabase.app"</string>
+</resources>
